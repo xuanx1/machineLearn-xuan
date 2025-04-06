@@ -1,0 +1,6 @@
+.DS_S*
+__pycache__/
+*.pyc
+*.pyc.*
+*_utils.py
+*_utils.py.*

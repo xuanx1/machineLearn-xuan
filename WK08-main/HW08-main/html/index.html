@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    .container {
+      max-width: 768px;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      margin: 0 auto;
+    }
+  </style>
+  <script>
+    const url = "../data/flower_order.json";
+
+    fetch(url).then(res => {
+      if (!res.ok) {
+        throw new Error(`Response status: ${response.status}`);
+      }
+
+      res.json().then(imageFiles => {
+        const container = document.getElementById('main-container');
+
+        imageFiles.forEach((fname, i) => {
+          const imgDivEl = document.createElement("div");
+          imgDivEl.classList.add("img-container");
+          container.appendChild(imgDivEl);
+
+          const imgEl = document.createElement("img");
+          imgEl.setAttribute("src", `../data/image/flowers/${fname}`);
+          imgEl.classList.add("img-img");
+          imgDivEl.appendChild(imgEl);
+        });
+      });
+    });
+  </script>
+</head>
+
+<body>
+  <div id="main-container" class="container"></div>
+</body>
+
+</html>

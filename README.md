@@ -1,4 +1,4 @@
-## Machine Learning Course Tutorials/ Exercise
+## Machine Learning Tutorials-Exercises
 
 
 ### Week 01
