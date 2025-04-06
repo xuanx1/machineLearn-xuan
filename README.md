@@ -5,10 +5,34 @@
 Python syntax and Notebook intro
 
 ### Week 02
-lorem ipsum
+## Exercises with
+
+- lists
+- objects
+- data
 
 ### Week 03
-lorem ipsum
+Audio representation and processing
 
 ### Week 04
-lorem ipsum
+Image representation and processing
+
+### Week 05
+Pandas DataFrames, Normalization and Encoding
+
+[Colour Filter Tool]https://machinelearn-xuan.github.io/WK05/5020-Gradio-main/
+
+### Week 06
+Supervised Learning: Regression
+
+### Week 07
+Supervised Learning: Classification
+
+### Week 08
+Unsupervised Learning and Clustering
+
+### Week 09
+Unsupervised Learning: PCA and Dimensionality Reduction
+
+### Week 10
+Text Processing and Analysis
