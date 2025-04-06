@@ -38,3 +38,30 @@ Unsupervised Learning: PCA and Dimensionality Reduction
 
 ### Week 10
 Text Processing and Analysis
+
+### Week 10
+Text Processing and Analysis
+
+
+### Week 11
+Machine Learning Review
+Intro to Neural Networks
+PyTorch & Tensors
+
+### Week 12
+More Neural Networks & PyTorch
+Batching and DataLoaders
+Data Augmentation
+Normalizations
+
+### Week 13
+Neural Networks for Images
+Convolutional Neural Networks
+Transfer Learning and Finetuning
+
+### Week 14
+Variational Autoencoders
+RNNs
+
+### Week 15
+Final Project
