@@ -5,7 +5,7 @@
 Python syntax and Notebook intro
 
 ### Week 02
-## Exercises with
+Exercises with
 
 - lists
 - objects
