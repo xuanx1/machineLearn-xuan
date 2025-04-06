@@ -28,6 +28,8 @@ Supervised Learning: Regression
 ### Week 07
 Supervised Learning: Classification
 
+[Colour Sorting Tool] https://psam-5020-2025s-a.github.io/5020-ColorSort-Gradio/
+
 ### Week 08
 Unsupervised Learning and Clustering
 
