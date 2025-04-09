@@ -42,11 +42,9 @@ Text Processing and Analysis
 ### Week 10
 Text Processing and Analysis
 
-
 ### Week 11
-Machine Learning Review
-Intro to Neural Networks
-PyTorch & Tensors
+ML Review
+Intro to Tensors
 
 ### Week 12
 More Neural Networks & PyTorch
