@@ -47,10 +47,7 @@ ML Review
 Intro to Tensors
 
 ### Week 12
-More Neural Networks & PyTorch
-Batching and DataLoaders
-Data Augmentation
-Normalizations
+Tensors and Neural Networks
 
 ### Week 13
 Neural Networks for Images
