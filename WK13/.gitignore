@@ -1,0 +1,7 @@
+.DS_S*
+__pycache__/
+*_utils.py
+*.pyc
+*.py.*
+*.pyc.*
+data/image/lfw
