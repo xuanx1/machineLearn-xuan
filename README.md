@@ -50,13 +50,10 @@ Intro to Tensors
 Tensors and Neural Networks
 
 ### Week 13
-Neural Networks for Images
-Convolutional Neural Networks
-Transfer Learning and Finetuning
+Image Neural Networks
 
 ### Week 14
-Variational Autoencoders
-RNNs
+Convolutional Neural Network and Residual Nets
 
 ### Week 15
 Final Project
